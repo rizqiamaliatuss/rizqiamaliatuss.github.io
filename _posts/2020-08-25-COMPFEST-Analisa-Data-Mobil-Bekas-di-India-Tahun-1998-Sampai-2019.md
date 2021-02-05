@@ -29,8 +29,8 @@ align="justify">    Dengan adanya pergeseran minat masyarakat terhadap industri 
 align="justify">    Kedua gambar dibawah menyajikan data merk mobil beserta total penjualan tiap merk di India. Terdapat 30 merk mobil, dengan merk mobil yang paling banyak diperjual belikan adalah Maruti berjumlah 1.211 dan merk mobil yang paling sedikit diperjual belikan adalah Smart Fortwo, Lamborghini, Bantley, dan Ambassador masing masing berjumlah 1 mobil. Pada data diatas tertulis 2 merk mobil Isuzu dikarenakan terdapat 2 jenis berbeda pada merk tersebut. </p>
 
 <figure class="center">
-<img src="{{ site.url }}/images/22.png" >
-<img src="{{ site.url }}/images/23.png">
+<img src="{{ site.url }}/assets/img/22.png" >
+<img src="{{ site.url }}/assets/img/23.png">
 </figure>
 
 ### Kota Mana yang Memiliki Jumlah Mobil Bekas Paling
@@ -38,7 +38,7 @@ align="justify">    Kedua gambar dibawah menyajikan data merk mobil beserta tota
 <p 
 align="justify">    Grafik tersebut menampilkan data banyaknya mobil bekas pada beberapa kota di India, data diurutkan dari kiri ke kanan berdasarkan jumlah penjualan mobil bekas terbanyak hingga jumlah penjualan mobil bekas paling sedikit disetiap kota. Dapat dilihat bahwa kota yang berada di sisi paling kiri adalah kota Mumbai. Hal ini menunjukan bahwa kota Mumbai memiliki jumlah mobil bekas yang paling banyak. </p>
 
-<img src="{{ site.url }}/images/24.png" class="center" >
+<img src="{{ site.url }}/assets/img/24.png" class="center" >
 
 ### Bagaimana distribusi tahun edisi mobil-mobil bekas tersebut?
 
@@ -46,12 +46,12 @@ align="justify">    Grafik tersebut menampilkan data banyaknya mobil bekas pada 
 <p 
 align="justify">    Informasi yang diberikan grafik diatas adalah tentang jumlah pendistribusian mobil bekas di India sejak tahun 1998 hingga tahun 2019. Terlihat titik tertinggi atau titik puncak pada diagram garis tersebut terdapat pada tahun 2014, dan titik terendah pada tahun 1999. Hal tersebut menunjukkan pendistribusian dengan jumlah terbanyak pada tahun 2014 dan dengan jumlah terendah pada tahun 1999. Kenaikan jumlah pendistribusian tertinggi terdapat pada tahun 2014. </p>
 
-<img src="{{ site.url }}/images/25.png" class="center" >
+<img src="{{ site.url }}/assets/img/25.png" class="center" >
 
 <p 
 align="justify">    Berikut adalah data jumlah pendistribusian mobil bekas pada kota kota di India terhitung sejak tahun 1998 hingga tahun 2019. Titik teratas berwarna oranye muda terletak pada angka 126 menunjukkan bahwa angka pendistribusian mobil bekas paling banyak dalam satu waktu sepanjang tahun 1998 hingga tahun 2019 terjadi pada tahun 2017 di kota Coimbatore. Sedangkan warna yang paling banyak nampak adalah warna biru muda yaitu sebanyak 17 titik, yang menunjukkan kota Bangalore. Sehingga dapat disimpulkan bahwa pendistribusian mobil bekas dengan konsistensi pembelian setiap tahun dilakukan di kota Bangalore. </p>
 
-<img src="{{ site.url }}/images/21.png" class="center" >
+<img src="{{ site.url }}/assets/img/21.png" class="center" >
 
 ### Berapa banyak mobil yang memiliki total jarak pemakaian di bawah 100.000 kilometer?
 
@@ -59,8 +59,8 @@ align="justify">    Berikut adalah data jumlah pendistribusian mobil bekas pada 
 align="justify">    Gambar dibawah merupakan diagram yang menunjukkan data akumulasi mobil dengan jarak pemakaiandiatas 100 km (false) dan jarak pemakaian dibawah 100 km (true). </p>
 
 <figure class="center">
-<img src="{{ site.url }}/images/26.png" >
-<img src="{{ site.url }}/images/27.png" width="250" height="300">
+<img src="{{ site.url }}/assets/img/26.png" >
+<img src="{{ site.url }}/assets/img/27.png" width="250" height="300">
 </figure>
 
 <p 
@@ -74,8 +74,8 @@ align="justify">    Dari boxplot dibawah dapat diketahui total jarak pemakaian m
 <img src="{{ site.url }}/images/28.png" class="center" >
 
 <figure class="half">
-<img src="{{ site.url }}/images/29.png" >
-<img src="{{ site.url }}/images/210.png">
+<img src="{{ site.url }}/assets/img/29.png" >
+<img src="{{ site.url }}/assets/img/210.png">
 </figure>
 
 ### Apakah terdapat outlier pada kolom Kilometers_Driven?
@@ -83,11 +83,11 @@ align="justify">    Dari boxplot dibawah dapat diketahui total jarak pemakaian m
 <p 
 align="justify">    Dari data bloxplot dan program diketahui bahwa terdapat outlier. Outlier dapat ditemukan pada case lebih dari 131500 sampai < 190.000. Jadi setiap data yang nilainya melebihi 131500 (Upper_bound) sampai < 190000 akan menjadi data outlier. Sedangkan data dengan nilai ≥ 190000 akan dikategorikan nilai ekstrim. </p>
 
-<img src="{{ site.url }}/images/28.png" class="center" >
+<img src="{{ site.url }}/assets/img/28.png" class="center" >
 
 <figure class="half">
-<img src="{{ site.url }}/images/29.png" >
-<img src="{{ site.url }}/images/211.png">
+<img src="{{ site.url }}/assets/img/29.png" >
+<img src="{{ site.url }}/assets/img/211.png">
 </figure>
 
 ### Apa saja faktor-faktor yang mempengaruhi harga mobil bekas di India?
@@ -95,17 +95,17 @@ align="justify">    Dari data bloxplot dan program diketahui bahwa terdapat outl
 <p 
 align="justify">    Terdapat beberapa faktor yang mempengaruhi harga penjualan mobil bekas. Tahun edisi merupakanfaktor utama yang mempengaruhi harga penjualan mobil bekas. Dapat kita lihat pada ketiga grafikhubungan antar data dibawah yang memiliki kesamaan hubungan antara harga dengan tahun yang apabilatahun edisi mobil semakin baru maka harga mobil bekas tersebut cenderung lebih tinggi. Yang pertama pada grafik hubungan antar dataset dengan data jenis bahan bakar yang digunakan, jenis bahan bakar tidak terlalu berpengaruh terhadap harga dari mobil bekas, terdapat mobil dengan jenis bahan bakar yang sama tetapi memiliki harga jual yang lebih tinggi dikarenakan tahun edisi mobil yang lebih terbaru. Total jarak tempuh tempuh dari mobil bekas juga cukup berpengaruh, semakin kecil nilai total jarak tempuh, semakin tinggi harga jual mobil tersebut. </p>
 
-<img src="{{ site.url }}/images/212.png" class="center" >
+<img src="{{ site.url }}/assets/img/212.png" class="center" >
 
 <p 
 align="justify">    Yang kedua adalah hubungan antara dataset dengan jenis kepemilihakan mobil yang dibagikan menjadi 4; kepemilikan dari tangan pertama, kepemilikan dari tangan kedua, kepemilikan dari tangan ketiga dan kepemilikan dari tangan keempat atau lebih. Jenis kepemilikan memiliki cukup andil dalam menentukan harga, dapat dilihat pada bagian grafik hubungan antara harga dengan tahun pada jenis kepemilikan, kepemlikan orang pertama memiliki nilai yang lebih tinggi dibandingkan dengan kepemilikan kedua atau lebih pada tahun yang sama. Begitu pula hubungan total jarak pemakain mobil dengan harga mobil, beberapa kepemilikan pertama memiliki harga jual yang lebih tinggi dalam ukuran total jarak pemakaian mobil yang sama. </p>
 
-<img src="{{ site.url }}/images/213.png" class="center" >
+<img src="{{ site.url }}/assets/img/213.png" class="center" >
 
 <p 
 align="justify">    Yang ketiga adalah hubungan antara dataset dengan jenis transmission mobil. Jenis transmisi juga memiliki cukup andil dalam menentukan harga, dapat dilihat pada bagian grafik hubungan antara harga dengan tahun pada jenis transmisi secara otomatis memiliki harga jual yang lebih tinggi dibandingkan dengan jenis transmisi secara manual pada tahun yang sama. Begitu pula hubungan total jarak pemakain mobil dengan harga mobil, sebagian besar mobil dengan transmisi otomatis memiliki harga yang lebih tinggi dalam ukuran total jarak pemakaian mobil yang sama. </p>
 
-<img src="{{ site.url }}/images/214.png" class="center" >
+<img src="{{ site.url }}/assets/img/214.png" class="center" >
 
 **ANALISA INI MASIH AKAN DIKEMBANGKAN LAGI**
 
