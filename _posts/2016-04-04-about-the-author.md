@@ -1,10 +1,19 @@
 ---
 layout: post
-title: "About the Author"
-author: "Paul Le"
+title: "Halo!"
+author: "Rizqi Amaliatus SHolihati"
 categories: facts
 tags: [sample]
-image: cuba-4.jpg
+image: qia_sing.jpg
 ---
 
-Hi there! I'm Paul. I’m a physics major turned programmer. Ever since I first learned how to program while taking a scientific computing for physics course, I have pursued programming as a passion, and as a career. Check out [my personal website](https://www.lenpaul.com/) for more information on my other projects (including more Jekyll themes!), as well as some of my writing.
+I am Rizqi Amaliatus Sholihati, but you can call me **Qia*
+
+Have experience as Data Analyst at Ornamen, new event organizer startup based on Bandung. I graduated from Mechatronics Engineering (http://mekatronika.pens.ac.id/) at Politeknik Elektronika Negeri Surabaya in 2020. 
+I'm passionate about data, machine learning, innovation, and pushing the boundaries of what can be achieved through digital!
+
+Because of that, I just finished my final project entitled [Potato leaf Disease Classification Based on Deep Learning (https://github.com/rizqiamaliatuss/PotatoLeafDiseaseClassification) .
+
+**Contact me on email rizqiasm18 [at] gmail [dot] com**
+
+
