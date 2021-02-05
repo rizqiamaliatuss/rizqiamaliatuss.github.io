@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Potato Leaf Disease Classification Based on Deep learning"
+title: "COMPFEST Analisa Data Mobil Bekas di India Tahun 1998 Sampai 2019"
 author : "Rizqi Amaliatus Sholihati"
 image: 21.png
 categories: portofolio
