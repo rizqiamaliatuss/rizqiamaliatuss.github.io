@@ -1,6 +1,6 @@
 ---
 layout: misc
-title: about
+title: About
 ---
 
 {% for post in site.categories.portofolio %}
