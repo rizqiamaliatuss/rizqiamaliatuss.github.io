@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Halo!"
-author: "Rizqi Amaliatus SHolihati"
+author: "Rizqi Amaliatus Sholihati"
 categories: facts
 tags: [sample]
 image: qia_sing.jpg
