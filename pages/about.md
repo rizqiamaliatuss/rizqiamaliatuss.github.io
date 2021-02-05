@@ -1,6 +1,0 @@
----
-layout: misc
-title: About
----
-
-
