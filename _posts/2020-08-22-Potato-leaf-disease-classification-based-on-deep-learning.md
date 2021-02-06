@@ -12,8 +12,8 @@ I Developed a system that can classify and detect leaf diseases in potato plants
 
 
 <figure class="half">
-	<img src="{{ site.url }}/images/1vgg16.png">
-	<img src="{{ site.url}}/images/1vgg19.png">
-	<img src="{{ site.url }}/images/11.png">
-	<img src="{{ site.url}}/images/12.png">
+	<img src="{{ site.github.url }}/images/1vgg16.png">
+	<img src="{{ site.github.url}}/images/1vgg19.png">
+	<img src="{{ site.github.url }}/images/11.png">
+	<img src="{{ site.github.url}}/images/12.png">
 </figure>
