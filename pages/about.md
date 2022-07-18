@@ -12,7 +12,7 @@ I am Rizqi Amaliatus S, but you can call me just timtims
 An Auditor in one of the paper-manufactured public companies based in Surabaya, graduated from Politeknik Elektronika Negeri Surabaya.
 
 I have interested in data stuff, like analysing, visualising and bringing data for the greater good. 
-Almost every day, I do code and deep dive into data because I love it. You can visit my portfolio here (asap) and my resume [Linkedin](https://www.linkedin.com/rizqiamaliatuss)
+Almost every day, I do code and deep dive into data because I love it. You can visit my portfolio here (asap) and my resume [Linkedin](https://www.linkedin.com/in/rizqiamaliatuss/).
 
 Beside of doing that, I also enjoy reading (especially with my Kindle) and playing Jigsaw puzzle ^^
 
