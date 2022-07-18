@@ -4,6 +4,18 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# About me 
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+Halo, welcome here!
+
+I am Rizqi Amaliatus S, but you can call me just timtims
+An Auditor in one of the paper-manufactured public companies based in Surabaya, graduated from Politeknik Elektronika Negeri Surabaya.
+
+I have interested in data stuff, like analysing, visualising and bringing data for the greater good. 
+Almost every day, I do code and deep dive into data because I love it. You can visit my portfolio here (asap) and my resume [Linkedin} (https://www.linkedin.com/rizqiamaliatuss).
+
+Beside of doing that, I also enjoy reading (especially with my Kindle) and playing Jigsaw puzzle ^^
+
+Last, let's connect. You can contact me on rizqiasm18 [at] gmail [dot] com. 
+
+
