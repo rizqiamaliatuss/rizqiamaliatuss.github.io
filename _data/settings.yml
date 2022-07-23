@@ -5,7 +5,6 @@ menu:
 - {name: 'Projects', url: ''}
 - {name: 'Blog',     url: 'blog'}
 - {name: 'About',    url: 'about'}
-- {name: 'Contact',  url: 'contact'}
 
 #-------------------------------
 # Projects Section
@@ -21,11 +20,11 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'github',    link: 'https://github.com/lenpaul'}
-- {icon: 'linkedin',  link: 'https://linkedin.com/in/lenpaul'}
-- {icon: 'envelope',  link: 'mailto:mailto:l.nguyen.paul@gmail.com'}
+- {icon: 'twitter',   link: 'https://twitter.com/timtimssss'}
+- {icon: 'instagram', link: 'https://www.instagram.com/rizqiaasm/'}
+- {icon: 'github',    link: 'https://github.com/rizqiamaliatuss'}
+- {icon: 'linkedin',  link: 'https://www.linkedin.com/in/rizqiamaliatuss/'}
+- {icon: 'envelope',  link: 'mailto:mailto:rizqiasm18@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
 
