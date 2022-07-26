@@ -20,7 +20,6 @@ projects:
 # Contact Section
 
 social:
-- {icon: 'twitter',   link: 'https://twitter.com/timtimssss'}
 - {icon: 'instagram', link: 'https://www.instagram.com/rizqiaasm/'}
 - {icon: 'github',    link: 'https://github.com/rizqiamaliatuss'}
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/rizqiamaliatuss/'}
