@@ -10,7 +10,7 @@ menu:
 # Projects Section
 
 projects:
-- {name: 'Project One',   url: 'proj-1'}
+- {name: 'Potato Leaf Disease Classification using Deep Learning Approach',   url: 'proj-1'}
 - {name: 'Project Two',   url: 'proj-2'}
 - {name: 'Project Three', url: 'proj-3'}
 - {name: 'Project Four',  url: 'proj-4'}
@@ -33,7 +33,7 @@ social:
 # NOTE: Providing SEO information will make this website more searchable on the internet.
 
 seo:
-  description: 'Personal portfolio powered by Jekyll and GitHub Pages '
+  description: 'Rizqi Amaliatus Sholihati'
   rel-author: 'https://plus.google.com/u/0/#'
   rel-publisher: 'https://plus.google.com/u/0/#'
 
