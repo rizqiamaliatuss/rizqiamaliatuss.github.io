@@ -7,7 +7,9 @@ Most of Machine Learning can't handle categorical data (either input or output),
 That's why we need to encode the categorical data to numeric.
 
 Before we jump into "How to encode?", we have to deal about what is actually categorical and numerical.
+
 Numeric is anything of containing number and categorical is containing data that can identified based on label or group.
+
 Categorical data divide into 2: Nominal value (there is no relationship amoung group) and ordinal value (can be rank)
 
 Numerical data type example : 
