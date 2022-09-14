@@ -12,6 +12,7 @@ Categorical data divide into 2: Nominal value (there is no relationship amoung g
 
 Numerical data type example : 1,2,3,4.5
 Categorical data : 
+
         1. Nominal : Men and Women
         2. Categorical : good,bad, enough
 
